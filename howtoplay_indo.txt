@@ -1,0 +1,31 @@
+SL ========================================================================= SL
+
+		 Selamat datang di permainan "Dangerline"!
+
+ Tugas		: Menemukan letak tanaman terakhir di area "Dangerline"
+
+ Yang dimiliki	: 5 bar hati
+
+ Kabar Buruk	: Akan ada ranjau-ranjau yang mematikan, diantaranya:
+			
+			ranjau hijau (mengurangi 1 bar hati kamu)
+			ranjau biru  (mengurangi 2 bar hati kamu)
+			ranjau merah (mengurangi 3 bar hati kamu)
+			ranjau ungu  (mengurangi 5 bar hati kamu)
+ 
+ Kabar Baik	: Akan ada obat yang dapat menambah 1 bar hati kamu
+
+ Cara		: Pertama, tekan:
+
+			a (untuk siap-siap berjalan ke kiri)
+			w (untuk siap-siap berjalan ke atas)
+			s (untuk siap-siap berjalan ke bawah)
+			d (untuk siap-siap berjalan ke kanan)
+
+		  Setelah itu, tekan 'Enter' untuk mulai melangkah
+
+		  (Apabila salah memasukkan angka, giliran anda akan di-skip)
+
+ Pesan		: Berhati-hatilah, Selamat Berjuang!..
+
+SL ========================================================================= SL
